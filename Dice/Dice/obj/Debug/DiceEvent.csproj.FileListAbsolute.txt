@@ -1,0 +1,7 @@
+D:\C#\Dice\Dice\bin\Debug\Dice.exe.config
+D:\C#\Dice\Dice\bin\Debug\Dice.exe
+D:\C#\Dice\Dice\bin\Debug\Dice.pdb
+D:\C#\Dice\Dice\obj\Debug\DiceEvent.csprojAssemblyReference.cache
+D:\C#\Dice\Dice\obj\Debug\DiceEvent.csproj.CoreCompileInputs.cache
+D:\C#\Dice\Dice\obj\Debug\Dice.exe
+D:\C#\Dice\Dice\obj\Debug\Dice.pdb
